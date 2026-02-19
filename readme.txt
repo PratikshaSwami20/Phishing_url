@@ -1,0 +1,10 @@
+My GitHub Project
+
+This project is created for practical purpose.
+
+Files included: 1. index.html 2. readme.txt
+
+This repository demonstrates basic Git commands: - git init - git add
+. - git commit -m “Initial Commit” - git push - git pull
+
+Created by: Pratiksha Swami
